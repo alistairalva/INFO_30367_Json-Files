@@ -1,11 +1,162 @@
 [
 {
-"BRAND": "Samsung"
+"BRAND": "LG",
+	"PRODUCTNAME": "LG 65' 4K SM9500 NanoCell Smart LED TV",
+	"GRAPHICNAME": "LG_SM_9500.jpg",
+	"COSTPRICE": "3540.9900",
+	"MSRP": "3600.0000",
+	"QTYONHAND": "17",
+	"QTYONBACKORDER": "2",
+	"DESCRIPTION": "The LG SM9500 NANOCELL TV provides a superior 4K viewing experience by incorporating several advanced technologies: NANOCELL COLOR, TruMotion 240Hz, Ultra Luminance Plus, new IPS panels, and more."
 },
 {
-"BRAND": "LG"
+"BRAND": "Samsung",
+	"PRODUCTNAME": "Samsung 32' Tizen 720p Smart LED TV",
+	"GRAPHICNAME": "Samsung_32_Smart_TV.jpg",
+	"COSTPRICE": "229.9900",
+	"MSRP": "359.0000",
+	"QTYONHAND": "20",
+	"QTYONBACKORDER": "19",
+	"DESCRIPTION": "This 32' 720p Tizen Smart TV from Samsung brings the convenience of technology to your HD TV screen with features like TV Plus for access to the latest media, Steam Link for playing games"
 },
 {
-"BRAND": "Panasonic"
+"BRAND": "Panasonic",
+"PRODUCTNAME": "Panasonic Innovative Full HD TV",
+"GRAPHICNAME": "Panasonic_Innovative_full_HD.png",
+"COSTPRICE": "1999.9900",
+"MSRP": "2229.0000",
+"QTYONHAND": "5",
+"QTYONBACKORDER": "3",
+"DESCRIPTION": "Expand your experiences, and enrich your life, In 2014, Panasonic introduces an entirely new TV category, called Life+Screen, that is designed to go Beyond Smart TV"
+},
+{
+"BRAND": "Panasonic",
+"PRODUCTNAME": "Panasoic 50' Viera Class S30 Series",
+"GRAPHICNAME": "Panasonic_Vera_TV.png",
+"COSTPRICE": "199.9900",
+"MSRP": "229.0000",
+"QTYONHAND": "39",
+"QTYONBACKORDER": "26",
+"DESCRIPTION": "A very nice TV that meets all your basic needs"
+},
+{
+"BRAND": "Panasonic",
+"PRODUCTNAME": "Panasonic 70' Viera LED TV",
+"GRAPHICNAME": "Panasonic_TV2.png",
+"COSTPRICE": "499.9900",
+"MSRP": "529.0000",
+"QTYONHAND": "15",
+"QTYONBACKORDER": "8",
+"DESCRIPTION": "Enjoy Clear picture in a 1920 x 1080p native panel resolution."
+},
+{
+"BRAND": "Panasonic",
+"PRODUCTNAME": "Panasonic 65 OLED EZ1000 Series",
+"GRAPHICNAME": "Panasonic_TV2.png",
+"COSTPRICE": "499.9900",
+"MSRP": "529.0000",
+"QTYONHAND": "15",
+"QTYONBACKORDER": "8",
+"DESCRIPTION": "Enjoy Clear picture in a 1920 x 1080p native panel resolution."
+},
+{
+"BRAND": "Panasonic",
+"PRODUCTNAME": "Panasonic 65' OLED EZ1000 Series",
+"GRAPHICNAME": "Panasonic_OLED_TV.png",
+"COSTPRICE": "899.9900",
+"MSRP": "1009.0000",
+"QTYONHAND": "13",
+"QTYONBACKORDER": "12",
+"DESCRIPTION": "Panasonics high-end 4K PRO HDR TVs are designed from the bottom up and tuned in Hollywood to deliver picture quality true to the filmmakers vision"
+},
+{
+"BRAND": "Panasonic",
+"PRODUCTNAME": "Panasonic TC -xxGX800",
+"GRAPHICNAME": "Panasonic_TC_TV.png",
+"COSTPRICE": "499.9900",
+"MSRP": "629.0000",
+"QTYONHAND": "4",
+"QTYONBACKORDER": "1",
+"DESCRIPTION": "The best TV money can buy, one of the most popular television sets in the world"
+},
+{
+"BRAND": "LG",
+"PRODUCTNAME": "LG 65' 4K HDR IPS NanoCell Smart LED TV",
+"GRAPHICNAME": "LG_IPS_NanoCell.jpg",
+"COSTPRICE": "1999.9900",
+"MSRP": "1169.0000",
+"QTYONHAND": "27",
+"QTYONBACKORDER": "10",
+"DESCRIPTION": "NanoCell TV delivers on picture quality, lifelike scenes and a spectrum of colour. Processing power makes everything look better."
+},
+{
+"BRAND": "LG",
+"PRODUCTNAME": "LG 75' 4K HDR IPS NanoCell Smart LED TV",
+"GRAPHICNAME": "LG_75_IPS_NanoCell.jpg",
+"COSTPRICE": "2199.9900",
+"MSRP": "1999.0000",
+"QTYONHAND": "12",
+"QTYONBACKORDER": "3",
+"DESCRIPTION": "LG NanoCell TV 4K puts color on full display. Come home to stunning, vibrant color and detailed crisp images, made possible by the displays nanometer-sized particles, each thinner than a human hair."
+},
+{
+"BRAND": "LG",
+"PRODUCTNAME": "LG 86' 4K HDR IPS Smart LED TV",
+"GRAPHICNAME": "LG_86_Smart_LED.jpg",
+"COSTPRICE": "3599.9900",
+"MSRP": "3999.0000",
+"QTYONHAND": "6",
+"QTYONBACKORDER": "4",
+"DESCRIPTION": "Your own theatre awaits with an extra-large IPS 4K screen that provides four times the resolution of Full HD, even at wide viewing angles."
+},
+{
+"BRAND": "LG",
+"PRODUCTNAME": "LG 49' 4K HDR IPS Smart LED TV",
+"GRAPHICNAME": "LG_49_Smart_LED.jpg",
+"COSTPRICE": "499.9900",
+"MSRP": "569.0000",
+"QTYONHAND": "22",
+"QTYONBACKORDER": "11",
+"DESCRIPTION": "Experience more realistic 4K images with fine detail and vivid colour on the IPS display offering four times greater resolution than Full HD."
+},
+{
+"BRAND": "Samsung",
+"PRODUCTNAME": "Samsung 65' Q900 8K QLED Smart LED TV",
+"GRAPHICNAME": "Samsung_75_Q6DR.jpg",
+"COSTPRICE": "2998.9900",
+"MSRP": "3459.0000",
+"QTYONHAND": "5",
+"QTYONBACKORDER": "1",
+"DESCRIPTION": "Samsung QLED 8K challenges the convention of television technology. Watch as a new dimension of reality unfolds, with super high high resolution 4 times higher than 4K UHD and 16 times higher than FHD"
+},
+{
+"BRAND": "Samsung",
+"PRODUCTNAME": "Samsung 75' Q6DR 8K QLED Smart LED TV",
+"GRAPHICNAME": "Samsung_65_8K_QLED.jpg",
+"COSTPRICE": "1898.9900",
+"MSRP": "2199.0000",
+"QTYONHAND": "15",
+"QTYONBACKORDER": "7",
+"DESCRIPTION": "Quantum Dot technology lets you experience images bursting with a dazzling range of over 1 billion colors, each upscaled to incredible clarity in a revolutionary way"
+},
+{
+"BRAND": "Samsung",
+"PRODUCTNAME": "Samsung 82' Q80R 4K QLED Smart LED TV",
+"GRAPHICNAME": "Samsung_82_QD80R.jpg",
+"COSTPRICE": "3498.9900",
+"MSRP": "3698.0000",
+"QTYONHAND": "3",
+"QTYONBACKORDER": "2",
+"DESCRIPTION": "The Q80R displays stunning images at maximum performance with Direct Full Array control and impressive HDR."
+},
+{
+"BRAND": "Samsung",
+"PRODUCTNAME": "Samsung 65' Q80R 4K QLED Smart LED TV",
+"GRAPHICNAME": "Samsung_82_QD80R.jpg",
+"COSTPRICE": "1898.9900",
+"MSRP": "2098.0000",
+"QTYONHAND": "12",
+"QTYONBACKORDER": "6",
+"DESCRIPTION": "The Q80R displays stunning images at maximum performance with Direct Full Array control and impressive HDR."
 }
 ]
